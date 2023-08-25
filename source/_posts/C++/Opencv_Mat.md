@@ -1,3 +1,16 @@
+---
+title: Opencv Mat
+date:
+tags: 
+- C++
+- Opencv
+categories:
+- C++
+description:
+top_img: false
+
+---
+
 # Opencv Mat
 
 

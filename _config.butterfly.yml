@@ -14,8 +14,8 @@ menu:
     Tags: /tags/ || fas fa-tags
     Categories: /categories/ || fas fa-folder-open
     Archives: /archives/ || fas fa-archive
-  eBook: /ebook/ || fa-solid fa-book
-  Software: /software/ || fa-brands fa-uncharted
+  Resource: /resource/ || fa-solid fa-graduation-cap
+  Software: /software/ || fa-solid fa-chalkboard
   Resume: /about/ || fas fa-heart
 
 # Code Blocks (代碼相關)
@@ -44,7 +44,7 @@ favicon: /img/favicon.png
 # Avatar (頭像)
 avatar:
   img: /img/avatar1.jpg
-  effect: true
+  effect: false
 
 # Disable all banner image
 disable_top_img: false
@@ -299,7 +299,7 @@ newest_comments:
 
 # Conversion between Traditional and Simplified Chinese (簡繁轉換)
 translate:
-  enable: true
+  enable: false
   # The text of a button
   default: 繁
   # the language of website (1 - Traditional Chinese/ 2 - Simplified Chinese）
@@ -335,7 +335,7 @@ rightside_scroll_percent: true
 # Choose: readmode,translate,darkmode,hideAside,toc,chat,comment
 # Don't repeat 不要重複
 rightside_item_order:
-  enable: true
+  enable: false
   hide: # readmode,translate,darkmode,hideAside
   show: # toc,chat,comment
 
@@ -757,7 +757,7 @@ hr_icon:
 subtitle:
   enable: true
   # Typewriter Effect (打字效果)
-  effect: true
+  effect: false
   # Customize typed.js (配置typed.js)
   # https://github.com/mattboldt/typed.js/#customization
   typed_option:

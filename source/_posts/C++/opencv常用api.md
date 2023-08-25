@@ -1,3 +1,16 @@
+---
+title: opencv常用api
+date:
+tags: 
+- C++
+- Opencv
+categories:
+- C++
+description:
+top_img: false
+
+---
+
 # opencv常用api
 
 

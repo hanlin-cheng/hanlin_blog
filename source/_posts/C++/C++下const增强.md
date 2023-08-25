@@ -1,3 +1,14 @@
+---
+title: C++下const增强
+date:
+tags: 
+- C++
+categories:
+- C++
+description:
+top_img: false
+---
+
 # C++下const增强
 
 ### 全局const间接修改

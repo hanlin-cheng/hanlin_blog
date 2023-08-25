@@ -1,3 +1,15 @@
+---
+title: CMakeLists简易模板
+date:
+tags: 
+- C++
+- CMakelists
+categories:
+- [C++, CMakelists]
+description:
+top_img: false
+---
+
 # CMakeLists简易模板
 
 ```cmake

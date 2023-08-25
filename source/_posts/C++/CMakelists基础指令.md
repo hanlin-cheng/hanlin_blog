@@ -1,3 +1,15 @@
+---
+title: CMakelists基础指令
+date:
+tags: 
+- C++
+- CMakelists
+categories:
+- [C++, CMakelists]
+description:
+top_img: false
+---
+
 # CMakelists基础指令 
 
 ## （1）include_directories 

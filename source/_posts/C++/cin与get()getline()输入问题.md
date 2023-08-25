@@ -1,4 +1,13 @@
-
+---
+title: cin与get()getline()输入问题
+date:
+tags: 
+- C++
+categories:
+- C++
+description:
+top_img: false
+---
 
 # cin与get（）getline（）输入问题
 

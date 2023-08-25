@@ -1,3 +1,15 @@
+---
+title: string和cstring头文件的区别
+date:
+tags: 
+- C++
+categories:
+- C++
+description:
+top_img: false
+
+---
+
 # string和cstring头文件的区别
 
 

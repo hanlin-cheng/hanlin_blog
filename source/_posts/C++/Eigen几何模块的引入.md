@@ -1,3 +1,15 @@
+---
+title: Eigen几何模块的引入 
+date:
+tags: 
+- C++
+- Eigen
+categories:
+- C++
+description:
+top_img: false
+---
+
 # Eigen几何模块的引入 
 
 ## 1、在CMakeLists文件中添加 

@@ -1,3 +1,15 @@
+---
+title: Protocol Buffers基本使用
+date:
+tags: 
+- C++
+categories:
+- C++
+description:
+top_img: false
+
+---
+
 # Protocol Buffers基本使用
 
 > - Protocol Buffer 和 XML、JSON一样都是结构数据序列化的工具，但它们的数据格式有比较大的区别：
